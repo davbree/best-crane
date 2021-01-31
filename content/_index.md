@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-      - label: Learn More
+      - label: nother More
         url: /features
         style: secondary
     image: images/classic/hero.png
